@@ -1,4 +1,5 @@
-# Meu nome é Luciano.<img align="center" alt="incrivel" height="43" width="43" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlkeDN5dnVmNGozMnp2bjA0aWdpZWVzdnFibGZnbmw3dWd1Mjg2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vjjCsx3izfSyQ/giphy.gif">
+# Meu nome é Luciano.<img align="center" alt="incrivel" height="43" width="43" src="https://media.tenor.com/KKnNByKH9VsAAAAM/skull.gif">
+">
 
 - Atualmente estudante
 - Estudando lógica de programação
