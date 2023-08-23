@@ -1,4 +1,4 @@
-# Meu nome é Luciano.
+# Meu nome é Luciano.<img align="center" alt="incrivel" height="43" width="43" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlkeDN5dnVmNGozMnp2bjA0aWdpZWVzdnFibGZnbmw3dWd1Mjg2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vjjCsx3izfSyQ/giphy.gif">
 
 - Atualmente estudante
 - Estudando lógica de programação
@@ -7,7 +7,7 @@
 ## Linguagens:
 <div style="display: inline_block">
     <a href="//pt.wikipedia.org/wiki/Portugol"><img align="center" alt="Ruka-Pg" height="43" width="43" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
-  <a href="//pt.wikipedia.org/wiki/Python"><img align="center" alt="Ruka-Pg" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <a href="//pt.wikipedia.org/wiki/Python"><img align="center" alt="Ruka-Pg" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
   ## 
