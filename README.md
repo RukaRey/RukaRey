@@ -12,8 +12,8 @@
 
   ## 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukarey&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukarey&layout=compact&theme=merko)](https://github.com/arukarey/github-readme-stats)
+<a href="https://github.com/RukaRey">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukarey&show_icons=true&theme=merko)
+<a href="https://github.com/RukaRey">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukarey&layout=compact&theme=merko)](https://github.com/arukarey/github-readme-stats)
 
 ## 
 
