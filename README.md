@@ -1,4 +1,4 @@
-# Meu nome é Luciano.<img align="center" alt="incrivel" height="43" width="43" src="https://media.tenor.com/KKnNByKH9VsAAAAM/skull.gif">
+.# Meu nome é Luciano.<img align="center" alt="incrivel" height="43" width="43" src="https://media.tenor.com/KKnNByKH9VsAAAAM/skull.gif">
 
 
 - Atualmente estudante
@@ -16,7 +16,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukarey&show_icons=true&theme=merko)](https://github.com/rukarey)
 <div>
   <a href="https://github.com/rukarey">
-  <img height="100%" width="369px" border-radius= "90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronss&layout=compact&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="100%" width="369px" border-radius= "90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukarey&layout=compact&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 
