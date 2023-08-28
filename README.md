@@ -11,13 +11,13 @@
     <a href="//pt.wikipedia.org/wiki/Python"><img align="center" alt="Ruka-Pg" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-  ## 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukarey&show_icons=true&theme=merko)](https://github.com/rukarey)
-<div>
-  <a href="https://github.com/rukarey">
-  <img height="100%" width="369px" border-radius= "90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukaRey&layout=compact&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<div style="display: flex; flex-direction: row;">
+    <a href="https://github.com/rukarey">
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=RukaRey&show_icons=true&theme=merko" />
+    <a href="https://github.com/rukarey">
+    <img height="253px" width="360px" border-radius= "90px" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukaRey&theme=merko&layout=compact" />
 </div>
+
 
 ## 
 
