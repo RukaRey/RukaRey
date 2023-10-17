@@ -1,8 +1,8 @@
 # Meu nome é Luciano.<img align="center" alt="incrivel" height="43" width="43" src="https://media.tenor.com/KKnNByKH9VsAAAAM/skull.gif">
 
 
-- Atualmente estudante
-- Estudando lógica de programação
+- Atualmente estudante no Senai
+- Estudando programação de aplicativos
 - Gosto de chocolate
 
 ## Linguagens:
