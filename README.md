@@ -9,6 +9,7 @@
 <div style="display: inline_block">
     <a href="//pt.wikipedia.org/wiki/Portugol"><img align="right" alt="Ruka-Pg" height="10" width="10" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
     <a href="//pt.wikipedia.org/wiki/Python"><img align="center" alt="Ruka-Pg" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <a href="//pt.wikipedia.org/wiki/HTML"><img align="center" alt="Ruka-Pg" height="39" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png">
 </div>
 
 <div style="display: flex; flex-direction: row;">
