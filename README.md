@@ -11,6 +11,16 @@
     <a href="//pt.wikipedia.org/wiki/Python"><img align="center" alt="Ruka-Pg" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <a href="//pt.wikipedia.org/wiki/HTML"><img align="center" alt="Ruka-Pg" height="39" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png">
     <a href="//pt.wikipedia.org/wiki/HTML"><img align="center" alt="Ruka-Pg" height="39" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png">
+    <a href="//pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="Ruka-Pg" height="39" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
+    <a href="//pt.wikipedia.org/wiki/PHP"><img align="center" alt="Ruka-Pg" width="46" height="46" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
+
+        
+</div>
+
+## Ferramentas:
+<div style="display: inline_block">
+    <a href="//pt.wikipedia.org/wiki/Godot"><img align="center" alt="God" height="46" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+    <a href="//pt.wikipedia.org/wiki/Visual_Studio_Code"><img align="center" alt="God" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
 <div style="display: flex; flex-direction: row;">
