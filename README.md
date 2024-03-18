@@ -2,6 +2,7 @@
 
 
 - Atualmente estudante no Senai
+- Cursando Ciências Exatas na federal
 - Estudando programação de aplicativos
 - Gosto de chocolate
 
