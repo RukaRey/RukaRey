@@ -1,9 +1,9 @@
 # Meu nome é Luciano.<img align="center" alt="incrivel" height="43" width="43" src="https://media.tenor.com/KKnNByKH9VsAAAAM/skull.gif">
 
 
-- Atualmente estudante no Senai
+- Desenvolvedor de Sistemas
 - Cursando Ciências Exatas na federal
-- Estudando programação de aplicativos
+- Estudando desenvolvimento de jogos
 - Gosto de chocolate
 
 ## Linguagens:
